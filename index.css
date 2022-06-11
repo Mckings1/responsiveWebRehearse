@@ -22,3 +22,48 @@
 .icon-bar{
     background: darkorange;
 } 
+li a {
+    color: #c1a505;
+}
+li a:hover{
+    color: blue;
+}
+.big-text{
+    font-size: 52px;
+    margin: 20px;
+    color: darkorange;
+
+}
+a.btn{
+    margin: 30px 10px;
+    width: 200px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+a.btn-first{
+    background-color: darkorange;
+    color: #fff;
+}
+/* a.btn-second{
+    background:transparent;
+    border: 1px solid darkorange;
+} */
+
+a.btn-third{
+    background:transparent;
+    border: 1px solid darkorange;
+}
+
+a.btn:hover{
+    background-color: darkgoldenrod;
+    border: none;
+    color: white;
+    box-shadow: 5px 5px 10px #999;
+    transition: 0.3s;
+}
+
+.banner-info .banner-image{
+    margin: 30px 0;
+
+}
