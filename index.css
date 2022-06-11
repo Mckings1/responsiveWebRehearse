@@ -3,9 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
-.navbar{
+
+.header{
+    height: 100vh;
+}
+.navbar-style{
     box-shadow: 0 5px 10px #c1a505;
-    background-color: #302a2a;  
+    /* background-color: #302a2a;   */
     text-transform: uppercase;
     
 }
@@ -13,20 +17,8 @@
 .logo{
     height: 68px;
     padding: 2px 5px;
-    /* background-color: red; */
-    
-}
-.navbar-nav{
-    padding: 5px;
-    font-size: large;
-    /* float: right; */
-    margin-top: -50px;
-}
-.navbar-right{
-    /* float: right; */
-    
 }
 
 .icon-bar{
     background: darkorange;
-}
+} 
